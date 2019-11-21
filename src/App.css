@@ -1,0 +1,29 @@
+a{text-decoration: none !important;}
+.d-flex{display: flex;}
+.align-items-center{align-items: center;} 
+.justify-content-between{justify-content: space-between;}
+.justify-content-start{justify-content: flex-start;}
+.flex-grow-1{flex-grow: 1;}
+.mt-2{margin-top: 20px !important;}
+.mt-3{margin-top: 30px !important;}
+.menu-link{color:#000 !important;margin:10px 25px !important;font-size: 20px !important;} 
+.start-sidebar{width:250px;background:#465365;padding: 20px;height: calc(100vh - 105px);text-align: center;}
+.start-sidebar p{color:#fbfbfd;font-size: 24px;line-height: 44px;padding-top: 100px;}
+.start-content{text-align: center;padding:25px 75px 0 75px;flex-grow: 1;}
+.page-title{color:rgba(0, 0, 0, 0.68); font-size: 42px !important;font-weight: 600;}
+.inner-content{width:100%;background: #fbfbfd;height: 550px;width: 900px;margin: 0 auto;}
+.welcome-sign-up-form{width: 260px;padding:20px;box-shadow: 5px 0 5px 3px rgba(0, 0, 0, 0.13);}
+.projectassign, .login-wrapper{height: 100vh;}
+.projectassign-outer{background: #fbfbfd;padding-top: 10px !important;}
+.projectassign-left, projectassign-right, .login-left, .login-right{padding:50px;height: calc(100vh - 100px);display: flex;justify-content: center;flex-direction: column;}
+.projectassign-left, .login-left{background: #465365; color:#ffffff}
+.projectassign-left h1, .login-left h1{font-size: 48px;text-align: center;}
+.projectassign-left p, .login-left p{font-size: 26px;text-align: center;}
+.projectassign-left li, .login-left li{font-size: 20px;font-weight: bold;margin-bottom: 20px;}
+.projectassign-right .projectassign-outer, .login-right .login-form{width: 360px;margin: 0 auto; box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.13);padding:0px 30px 30px 30px}
+.projectassign-right .projectassign-outer h2, .login-right .login-form h2{font-size: 32px;text-align: center;color:#000;}
+.projectassign-right .projectassign-outer .projectassign-inner, .login-right .login-form .login-innerform{width:225px;margin:0 auto; text-align: center;margin-top: 40px;}
+.assign-project-detail{padding:10px 20px;border:1px solid #359be0;border-radius: 5px;margin:25px 0}
+.assign-project-detail .icon-side{margin-right: 10px;}
+.assign-project-detail .icon-side{margin-right: 10px;}
+.assign-project-detail .name-side{font-size: 14px;color:#000000;font-weight: 600;text-transform: uppercase;}
